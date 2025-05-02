@@ -1,0 +1,10 @@
+dbConfig:
+  url: jdbc:postgresql://localhost:5432/test
+  username: postgres
+  password: Sb@04092020
+  driver: org.postgresql.Driver
+
+mockaroo:
+  apiKey: 08cb5a10
+  url: https://api.mockaroo.com/api/420463b0
+
